@@ -42,9 +42,9 @@ def startup_event():
         _state["metrics"] = metrics
         _state["baseline_metrics"] = baseline
 
-        print("✅ API started — data loaded and model trained.")
+        print("[INFO] API started - data loaded and model trained.")
     except Exception as e:
-        print(f"❌ Startup error: {e}")
+        print(f"[ERROR] Startup error: {e}")
         raise
 
 
