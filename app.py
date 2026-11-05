@@ -11,7 +11,7 @@ from src.config import APP_TITLE, DATA_PATH
 from src.data_loader import load_raw_data, preprocess_data, get_filtered_data
 from src.forecasting import train_model
 
-from pages import demand_overview, product_store_forecasts, inventory_risk, model_performance
+from views import demand_overview, product_store_forecasts, inventory_risk, model_performance
 
 # ── Page config ────────────────────────────────────────────────────────────
 st.set_page_config(

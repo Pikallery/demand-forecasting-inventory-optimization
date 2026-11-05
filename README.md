@@ -64,7 +64,7 @@ demand-forecasting-inventory-optimization/
 │       └── model_ready_sales.csv   # Feature-engineered dataset
 ├── notebook/
 │   └── Feature_creation.ipynb      # Exploratory analysis & feature prototyping
-├── pages/
+├── views/
 │   ├── __init__.py
 │   ├── demand_overview.py          # Page 1: Demand KPIs, trends, category/region/seasonal breakdowns
 │   ├── product_store_forecasts.py  # Page 2: Store/product trajectories, actual vs forecast, 30-day outlook

@@ -5,6 +5,9 @@ Configuration constants for the Demand Forecasting & Inventory Optimization Dash
 import os
 from pathlib import Path
 
+# ── Application ──────────────────────────────────────────────────────────────
+APP_TITLE = "Demand Forecasting & Inventory Optimization Dashboard"
+
 # ── Project Root & Data Path ──────────────────────────────────────────────────
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
