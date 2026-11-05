@@ -2,6 +2,19 @@
 
 An end-to-end machine learning system and interactive decision-support application for retail demand forecasting and inventory replenishment optimization.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pikallery-demand-forecasting-inventory-optimization--app-j7el4t.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717.svg?logo=github)](https://github.com/Pikallery/demand-forecasting-inventory-optimization-dashboard)
+
+---
+
+## 🌐 Live Application & Project Links
+
+- **🚀 Live Interactive Dashboard**: **[Demand Forecasting & Inventory Optimization Dashboard · Streamlit](https://pikallery-demand-forecasting-inventory-optimization--app-j7el4t.streamlit.app/)**
+- **💻 Standalone Dashboard Repository**: [Pikallery/demand-forecasting-inventory-optimization-dashboard](https://github.com/Pikallery/demand-forecasting-inventory-optimization-dashboard)
+- **👥 Team Collaborative Repository**: [prajwalkumargrti-collab/demand-forecasting-inventory-optimization](https://github.com/prajwalkumargrti-collab/demand-forecasting-inventory-optimization)
+- **🔀 Team Pull Request (Role 5)**: [Pull Request #1 on Team Repo](https://github.com/prajwalkumargrti-collab/demand-forecasting-inventory-optimization/pull/1)
+- **📦 Team Inventory Module Reference**: [Kotipallipujitha-29/Optimization.py](https://github.com/Kotipallipujitha-29/Optimization.py)
+
 ---
 
 ## 📌 Project Overview
